@@ -7,6 +7,9 @@
 is_light_rain = True
 
 if is_light_rain:
-    print("Bring a coat!")
+    
+    print("Bring a coat!")
+
 else:
-    print("Enjoy the sun!")
+    
+    print("Enjoy the sun!")

@@ -4,5 +4,6 @@
 - Variables are like a labelled box that can be used to store data for future use.
 
 ## Example
-- user_name = "Rob"
-- user_age = 32
+```python
+user_name = "Rob"
+user_age = 32

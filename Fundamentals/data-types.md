@@ -10,7 +10,8 @@
 - Boolean (bool) - True or False
 
 ## Examples
-- name = "Rob"
-- age = 23
-- height = 6.1
-- is_student = True
+```python
+name = "Rob"
+age = 23
+height = 6.1
+is_student = True

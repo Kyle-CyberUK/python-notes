@@ -9,4 +9,6 @@ This repository documents my progress learning Python fundamentals.
 - Functions
 - Basic scripts
 
+---
+
 This repository will grow as I continue building programming knowledge.

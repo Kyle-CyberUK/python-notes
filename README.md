@@ -3,7 +3,8 @@
 This repository documents my progress learning Python fundamentals.
 
 ## Areas Covered
-- Variables and data types
+- Variables
+- Data types
 - Conditionals
 - Loops
 - Functions

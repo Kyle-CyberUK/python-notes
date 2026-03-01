@@ -28,3 +28,13 @@ The + symbol has two uses:
 
 ## Relevance
 - Strings are essential for handling user input, displaying output, and working with data.
+
+## Examples
+```
+print("Hello\nWorld")
+
+name = "Kyle"
+print(f"Hello {name}")
+
+print(5 + 5)        # 10
+print("5" + "5")    # 55

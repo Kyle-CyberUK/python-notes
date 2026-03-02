@@ -4,11 +4,11 @@
 - A basic Python program that collects two numbers from the user and adds them together.
 
 ## Concepts Used
-- input()
-- Type conversion (float())
+- Input function
+- Float function
+- Print function
 - Variables
 - Arithmetic operators
-- print()
 
 ## How It Works
 - input() collects user input as a string.

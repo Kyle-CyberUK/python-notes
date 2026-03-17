@@ -2,12 +2,17 @@
 
 ## Overview
 - Conditionals allow programs to make decisions.
+- They use if, elif (else if), and else to decide what happens.
 
 ## Example
 ```python
-is_light_rain = True
+score = 80
 
-if is_light_rain:
-    print("Bring a coat!")
+if score >= 90:
+    print("A")
+elif score >= 70:
+    print("B")
 else:
-    print("Enjoy the sun!")
+    print("C")
+
+# This would print out "B" because score >= 90 is False, but score >= 70 is True.

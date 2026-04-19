@@ -11,10 +11,10 @@
 - Multi-line Strings
 
 ## How It Works
-- Prompts the user to enter different types of words (name, place, animal, verb, adjective).
-- Stores the input in variables.
-- Inserts the variables into a pre-written story using an f-string.
-- Prints the story with the user’s words.
+1. Prompts the user to enter different types of words (name, place, animal, verb, adjective).
+2. Stores the input in variables.
+3. Inserts the variables into a pre-written story using an f-string.
+4. Prints the story with the user’s words.
 
 ## Code
 ```

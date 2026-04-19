@@ -16,15 +16,15 @@
 
 ## List Functions
 Tools to manage list items.
-- .append() - Add one item to the end.
-- .insert() - Add an item at a specific position.
-- .remove() - Remove a specific item.
-- .pop() - Remove last item.
-- .sort() - Put items in order.
-- .clear() - Removes everything from a list.
-- .index() - Returns the position of an item in a list.
-- .count() - Returns how many times a value appears in a list.
-- .copy() - Makes a new copy of a list.
+- `.append()` - Add one item to the end.
+- `.insert()` - Add an item at a specific position.
+- `.remove()` - Remove a specific item.
+- `.pop()` - Remove last item.
+- `.sort()` - Put items in order.
+- `.clear()` - Removes everything from a list.
+- `.index()` - Returns the position of an item in a list.
+- `.count()` - Returns how many times a value appears in a list.
+- `.copy()` - Makes a new copy of a list.
 
 ## Lists & Tuples
 - A list is a collection that holds multiple things in order. It is mutable. Created using square brackets.

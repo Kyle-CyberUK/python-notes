@@ -11,10 +11,10 @@
 - Arithmetic operators
 
 ## How It Works
-- input() collects user input as a string.
-- float() converts the string into a number.
-- The + operator adds the two numbers.
-- The result is printed to the screen.
+1. input() collects user input as a string.
+2. float() converts the string into a number.
+3. The + operator adds the two numbers.
+4. The result is printed to the screen.
 
 ## Code
 ```

@@ -11,8 +11,8 @@
 - The loop repeats until the condition becomes false, only then will it move on.
 
 ## Loop Syntax
-- != - Means not equal to. It compares 2 values and checks if they are different. Decides if the loop continues.
-- break - Forces a loop to stop immediately.
+- `!=` - Means not equal to. It compares 2 values and checks if they are different. Decides if the loop continues.
+- `break` - Forces a loop to stop immediately.
 
 ## Relevance
 - Loops are essential because it saves the user from having to repeat the same code.

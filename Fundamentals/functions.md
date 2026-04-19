@@ -4,25 +4,25 @@
 - A reusable block of code that performs a specific task.
 
 ## Built-In Functions
-- print() - Displays output on the screen.
-- abs() - Absolute value of a number.
-- pow() - Raises a number to a power.
-- max() - Returns the largest value from a set.
-- min() - Returns the smallest value from a set.
-- round() - Rounds a number to the nearest integer.
-- input() - Takes user input from the keyboard.
+- `print()` - Displays output on the screen.
+- `abs()` - Absolute value of a number.
+- `pow()` - Raises a number to a power.
+- `max()` - Returns the largest value from a set.
+- `min()` - Returns the smallest value from a set.
+- `round()` - Rounds a number to the nearest integer.
+- `input()` - Takes user input from the keyboard.
 
 ## String Methods
 Work specifically with strings.
-- .upper() - Converts text into uppercase.
-- .lower() - Converts text into lowercase.
-- .replace() - Replaces part of a string with something else.
+- `.upper()` - Converts text into uppercase.
+- `.lower()` - Converts text into lowercase.
+- `.replace()` - Replaces part of a string with something else.
 
 ## Create A Function
-- The keyword def (short for define) is used to create a function.
+- The keyword **def** (short for define) is used to create a function.
 
 ## Why Functions Matter
-- Make code reusable
+- Makes code reusable
 - Improve readability
 - Help organise larger programs
 - Reduce repetition

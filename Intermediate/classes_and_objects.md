@@ -20,6 +20,33 @@ from Dog import Dog
 dog1 = Dog("Rex", "Labrador", "Large")
 dog2 = Dog("Bella", "Poodle", "Small")
 
-print(dog1.size)	  # Large
-print(dog2.size)	  # Small
+print(dog1.size)    # Large
+print(dog2.size)    # Small
+```
+A **method** is a function defined inside a class that describes the behaviours an object can perform.
+They are defined using 'def', and they always take 'self' as the first parameter.
+```
+class Dog:
+    def __init__(self, name, breed):
+        self.name = name
+        self.breed = breed
+
+    def description(self):
+	    print(f"{self.name} is a {self.breed}.")
+
+dog1 = Dog("Rex", "Labrador")
+dog1.description()    # Rex is a Labrador.
+```
+Methods can also return values:
+```
+class Dog:
+     def __init__(self, name, age):
+         self.name = name
+         self.age = age
+
+     def human_years(self):
+        return self.age * 7
+
+dog1 = Dog("Rex", 4)
+print(dog1.human_years())    # 28
 ```
